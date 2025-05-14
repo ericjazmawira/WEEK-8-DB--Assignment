@@ -32,3 +32,4 @@ To get started, you will need a MySQL database running on your local machine or 
    USE timetable_ke;
 
 ### **1. View ERD here:**
+https://dbdiagram.io/d/680b87061ca52373f55c96da
